@@ -6,4 +6,4 @@
 🎓 Pursuing a **Bachelor of Computer Applications (BCA)**.
 🧠 Experienced in building full-stack projects with authentication, REST APIs, and responsive UI.
 🤝 Open to collaborating on MERN-based projects and always eager to learn advanced backend and deployment techniques.
-📫 **Contact:** [atulmali102@gmail.com](mailto:atulmali102@gmail.com) | [LinkedIn](https://www.linkedin.com/in/atulmali) | [Portfolio](https://portfolio-website-eosin-omega.vercel.app)
+📫 **Contact:** [atulmali102@gmail.com](mailto:atulmali102@gmail.com) | [LinkedIn](https://www.linkedin.com/in/atulmali) | [Portfolio](https://portfolio-website-eosin-omega.vercel.app).
