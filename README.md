@@ -1,7 +1,7 @@
 
 👋 Hey, I’m Atul
 
-💻 MERN Stack Developer building fast, scalable, production ready web apps.
+💻 MERN Stack Developer building fast, scalable, production-ready web apps.
 ⚡ Working with React, Node.js, Express, MongoDB to ship real-world apps with auth, payments & real-time features.
 🚀 Always learning. Always shipping.
 
