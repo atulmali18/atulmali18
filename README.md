@@ -2,7 +2,7 @@
 
 💻 MERN Stack Developer building fast, scalable, production-ready web applications.
 ⚡ Experienced with React, Node.js, Express, and MongoDB, delivering real-world apps with authentication, payments, and real-time features.
-🚀 Always learning. Always shipping.
+🚀 Always learning. Always shipping..
 
 🔗 Connect with Me
 
