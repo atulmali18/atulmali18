@@ -9,4 +9,4 @@
 🌐 Portfolio: https://portfolio-website-eosin-omega.vercel.app
 💼 LinkedIn: https://www.linkedin.com/in/atulmali
 🐙 GitHub: https://github.com/atulmali18
-📧 Email: atulmali102@gmail.com.
+📧 Email: atulmali102@gmail.com. 
