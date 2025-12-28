@@ -46,5 +46,5 @@ Each project focuses on **real-world use cases**, not just tutorials.
 
 ---
 
-⭐ If you like my work, feel free to star my repositories and connect with me. 
+⭐ If you like my work, feel free to star my repositories and connect with me.  
 
