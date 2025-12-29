@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Atul Mali
+ # 👋 Hi, I'm Atul Mali
 
 ### MERN Stack Developer | Frontend-Focused | Production-Ready Web Apps
 
