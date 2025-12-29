@@ -15,7 +15,7 @@ My focus is on writing clean code, building real-world features, and shipping pr
 - **Authentication:** JWT, OAuth (Google Login)
 - **Payments:** Stripe / Razorpay (project-based)
 - **Tools:** Git, GitHub, Postman, Vercel, Render
-
+ 
 ---
 
 ## 🚀 What I Do
