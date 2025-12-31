@@ -20,6 +20,7 @@ My focus is on writing clean code, building real-world features, and shipping pr
 
 ## 🚀 What I Do
 
+
 - Build responsive and user-friendly web interfaces  
 - Develop REST APIs and backend logic  
 - Implement authentication, authorization, and payments  
