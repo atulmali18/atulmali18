@@ -6,7 +6,6 @@ I build **fast, scalable, and maintainable web applications** using the MERN sta
 My focus is on writing clean code, building real-world features, and shipping projects that actually work in production.
 
 ---
-
 ## 🛠️ Tech Stack
 
 - **Frontend:** React, JavaScript (ES6+), HTML5, CSS3, Tailwind CSS
